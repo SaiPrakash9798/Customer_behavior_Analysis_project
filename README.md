@@ -3,6 +3,7 @@
 A Complete Data Analytics Project Using Python, PostgreSQL, and Power BI
 
 
+
 This repository presents a comprehensive end-to-end analysis of customer shopping behavior using a dataset of 3,900 real purchase transactions. The project was designed to uncover actionable insights into customer demographics, purchase patterns, product preferences, and the overall impact of discounts, subscriptions, and shipping choices on revenue.
 
 🔍 Project Overview
@@ -17,10 +18,7 @@ Power BI for interactive dashboard visualization (including customer, category, 
 
 The final Power BI dashboard (see image above) showcases key performance metrics such as customer counts, revenue trends, purchase behavior, and category-level sales.
 
-
-
-🛠️ Key Components:
-
+🛠️ Key Components
 1. Data Preparation (Python)
 
 Conducted thorough quality checks and handled missing values
@@ -77,15 +75,7 @@ Target High-Value Demographics: The 26–35 age group generates the most revenue
 
 Enhance Product Positioning: Promote bestsellers and top-rated products in future marketing initiatives.
 
-📁 Repository Structure
- -data/               # Raw and cleaned datasets
-- notebooks/          # Python data cleaning & EDA notebooks
-- sql/                # PostgreSQL query scripts
-- dashboard/          # Power BI dashboard file (.pbix)
-- docs/               # Project documentation & visuals
-- README.md           # Project overview
-
- Technologies Used:
+Technologies Used:
 
 Python (Pandas, NumPy, Matplotlib/Seaborn)
 
