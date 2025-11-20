@@ -61,6 +61,10 @@ Demographic buying patterns
 
 The dashboard provides an end-to-end view of customer behavior, enabling stakeholders to quickly identify trends and opportunities.
 
+
+<img width="1536" height="1024" alt="ChatGPT Image Nov 20, 2025, 11_15_36 AM" src="https://github.com/user-attachments/assets/767522a7-bcb2-4e41-ac61-1623c72cf7d8" />
+
+
 💡 Business Insights & Recommendations
 
 Based on the combined findings across Python, SQL, and Power BI:
@@ -75,7 +79,7 @@ Target High-Value Demographics: The 26–35 age group generates the most revenue
 
 Enhance Product Positioning: Promote bestsellers and top-rated products in future marketing initiatives.
 
-Technologies Used:
+🚀 Technologies Used
 
 Python (Pandas, NumPy, Matplotlib/Seaborn)
 
